@@ -1,4 +1,4 @@
-# How to Download My Media from GitHub
+# How to Download my media AddOn from GitHub
 
 Follow these steps to download and install the media files from this repository:
 
@@ -15,7 +15,8 @@ Follow these steps to download and install the media files from this repository:
 
 ## Step 4: Install in World of Warcraft AddOns Folder
 1. Move the **`ElvUI_Media`** folder to your World of Warcraft AddOns directory: World of Warcraft/_retail_/Interface/AddOns
-Ensure the folder looks like ![This](Images/AddOns_Folder.png) after install.
+2. Ensure the folder looks like
+ ![This](Images/AddOns_Folder.png) after install.
 
  
 ## Additional Notes
