@@ -15,6 +15,8 @@ Follow these steps to download and install the media files from this repository:
 
 ## Step 4: Install in World of Warcraft AddOns Folder
 1. Move the **`ElvUI_Media`** folder to your World of Warcraft AddOns directory: World of Warcraft/_retail_/Interface/AddOns
+Ensure the folder looks like ![This](Images/AddOns_Folder.png) after install.
+
  
 ## Additional Notes
 - This media package is designed for use with the **ElvUI AddOn**.
