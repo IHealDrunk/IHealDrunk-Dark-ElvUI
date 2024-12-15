@@ -1,6 +1,6 @@
 # How to Download my media AddOn from GitHub
 
-Follow these steps to download and install the media files from this repository:
+Follow these steps to download and install the media files from this repository. This AddOn is used for personal use, and no I do not intend ever to push it to other public platforms:
 
 ## Step 1: Download the ZIP File
 1. Click the **`<> Code`** button on the repository page.
