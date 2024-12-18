@@ -10,6 +10,7 @@ LSM:Register("font", "Lovely Bubbles Italic", [[Interface\Addons\ElvUI_Media\Fon
 LSM:Register("font", "Lovely Bubbles", [[Interface\Addons\ElvUI_Media\Fonts\Lovely Bubbles.ttf]]) 
 LSM:Register("font", "Nice Sugar", [[Interface\Addons\ElvUI_Media\Fonts\Nice Sugar.ttf]]) 
 
+LSM:Register("statusbar", "KMT35", [[Interface\Addons\ElvUI_Media\Statusbar\KMT35.tga]]) 
 LSM:Register("statusbar", "One", [[Interface\Addons\ElvUI_Media\Statusbar\One.tga]]) 
 LSM:Register("statusbar", "PaqUI", [[Interface\Addons\ElvUI_Media\Statusbar\PaqUI.tga]]) 
 
