@@ -1,3 +1,5 @@
+![UI Dark](./Images/UIDark.jpg)
+
 # How to Download My Media Addon from GitHub
 
 **Disclaimer**: This addon is for personal use, and I never intend to push it to other public platforms. Some files have been picked out of other sources in the WoW community, and others are personally made.
