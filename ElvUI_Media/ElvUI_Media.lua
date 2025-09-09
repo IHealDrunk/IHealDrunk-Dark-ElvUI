@@ -10,7 +10,8 @@ LSM:Register("font", "Lovely Bubbles Italic", [[Interface\Addons\ElvUI_Media\Fon
 LSM:Register("font", "Lovely Bubbles", [[Interface\Addons\ElvUI_Media\Fonts\Lovely Bubbles.ttf]]) 
 LSM:Register("font", "Nice Sugar", [[Interface\Addons\ElvUI_Media\Fonts\Nice Sugar.ttf]]) 
 
-LSM:Register("statusbar", "KMT35", [[Interface\Addons\ElvUI_Media\Statusbar\KMT35.tga]]) 
+LSM:Register("statusbar", "KMT35", [[Interface\Addons\ElvUI_Media\Statusbar\KMT35.tga]])
+LSM:Register("statusbar", "KMT47", [[Interface\Addons\ElvUI_Media\Statusbar\KMT47.tga]]) 
 LSM:Register("statusbar", "One", [[Interface\Addons\ElvUI_Media\Statusbar\One.tga]]) 
 LSM:Register("statusbar", "PaqUI", [[Interface\Addons\ElvUI_Media\Statusbar\PaqUI.tga]]) 
 
@@ -21,3 +22,4 @@ LSM:Register("details", "kmt-details2", [[Interface\Addons\ElvUI_Media\Deatils\k
 LSM:Register("details", "kmt-details3", [[Interface\Addons\ElvUI_Media\Deatils\kmt-details3.tga]]) 
 LSM:Register("details", "kmt-details4", [[Interface\Addons\ElvUI_Media\Deatils\kmt-details4.blp]]) 
 LSM:Register("details", "kmt-spec", [[Interface\Addons\ElvUI_Media\Deatils\kmt-spec.tga]]) 
+
